@@ -6,7 +6,7 @@
 _italics_
 **BOLD**
 >Blockquote
-
+~~Cats~~
 ## This is a table, hopefully.
 
 Item One | Item Two
