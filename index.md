@@ -3,6 +3,15 @@
 * This is a List
 * This is another list. 
 
+_italics_
+**BOLD**
+>Blockquote
+
+## This is a table, hopefully.
+
+Item One | Item Two
+---------|----------
+Eggs | Cheese
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/markbiswas/markbiswas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
